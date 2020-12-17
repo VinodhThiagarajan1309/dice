@@ -19,4 +19,4 @@ We will be handling all the variables that affect the UI in this State class. An
 
 ### Completed Project
 
-![My.png](Chapter 7.png)
+![My.png](Chapter_7.png)
