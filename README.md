@@ -1,10 +1,11 @@
 ## Dice App 
-A App that introduces the Stateful Widgets
+An App that introduces the Stateful Widgets
 
 ### New Widgets used
 - Center
 - Expanded
 - FlatButton
+- Stateful
 
 ### Key Facts Learned
 
